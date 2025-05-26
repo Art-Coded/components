@@ -417,3 +417,7 @@ fun SwipableCardSection() {
         }
     }
 }
+
+
+//initiate
+SwipableCardSection()
